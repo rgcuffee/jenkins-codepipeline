@@ -3,8 +3,8 @@ version: 0.2
 phases:
   install:
     commands:
-        - python -r pip3 install requirements.txt
-        # - python -m pip3 install Flask
+        # - python -r pip3 install requirements.txt
+        - sudo pip install Flask
         # - sudo apt-get install python3
         # - sudo apt-get install python3-pip 
         # - sudo pip install flask
