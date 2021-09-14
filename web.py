@@ -1,5 +1,5 @@
 # Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-# SPDX-License-Identifier: MIT-0 yupyupyup
+# SPDX-License-Identifier: MIT-0 yupyupyupyup
 
 from flask import Flask, flash, redirect, render_template, request, session, abort
 from random import randint
